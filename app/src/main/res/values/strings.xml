@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Alarm</string>
+    <string name="tone">Alarm Tone</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+</resources>
